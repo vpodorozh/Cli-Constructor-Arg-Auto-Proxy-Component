@@ -1,0 +1,21 @@
+{
+  "name": "vpodorozh/cli-construct-arg-auto-proxy-component",
+  "description": "Introduces global DI configuration for CLI constructor arg auto proxy execution.",
+  "type": "magento2-component",
+  "version": "1.0.0",
+  "require": {
+    "magento/framework": "*",
+    "vpodorozh/cli-construct-arg-auto-proxy-lib": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "extra": {
+    "map": [
+      [
+        "app/etc/cli_arg_auto_proxy_di.xml",
+        "app/etc/cli_arg_auto_proxy_di.xml"
+      ]
+    ]
+  }
+}
