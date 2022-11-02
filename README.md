@@ -1,9 +1,9 @@
 ---
-title: Cli Constructor Arg Auto Proxy Component
-keywords: CLI, Proxy, ObjectManager
-author: Vladyslav Podorozhnyi
-send_questions_to: vpodorozh@gmail.com | vlad.podorozhnyi@run-as-root.sh
-category: System
+title: [component] Cli Constructor Arg Auto Proxy  
+keywords: CLI, Proxy, ObjectManager  
+author: Vlad Podorozhnyi  
+send_questions_to: vpodorozh@gmail.com | vlad.podorozhnyi@run-as-root.sh  
+category: System  
 ---
 
 ## \[magento2-component\] Cli Constructor Arg Auto Proxy Component
